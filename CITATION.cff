@@ -1,0 +1,16 @@
+cff-version: 1.2.0
+message: "If you use this data or software, please cite the paper below."
+title: "From Key Points to Key Point Hierarchy: Structured and Expressive Opinion Summarization"
+authors:
+- family-names: Cattan
+  given-names: Arie
+- family-names: Eden
+  given-names: Lilach
+- family-names: Kantor
+  given-names: Yoav
+- family-names: Bar-Haim
+  given-names: Roy
+version: 1.0.0
+date-released: 2023-06-05
+license: Apache-2.0
+repository-code: "https://github.com/IBM/kpa-hierarchy"

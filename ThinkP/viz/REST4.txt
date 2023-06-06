@@ -1,0 +1,28 @@
+The quality of the food is poor.
+	|- The burger was a mess to eat.
+	|- French fries were simply awful.; The fries were nothing special.
+		|- Fries were over cooked.; The fries were burnt to a crisp.
+		|- My French fries were not freshly made.
+		|- The buffalo fries where way to salty.
+		|- The first basket of fries were cold.
+		|- The fries are too thick and coated.
+	|- Mac and cheese was bland.
+	|- Steak was very under seasoned.
+	|- The dirty rice lacked flavor.
+	|- The drinks were subpar.; Drinks are not worth the money as well.
+		|- Drinks were not strong either.
+	|- The hamburger was tasteless and cold.
+Slow on the service side, really slow.; The wait time was insane.
+	|- not enough waiters to take order.
+	|- Waited 25 mins between refills.
+	|- Waited 30 minutes for 1 appetizer.
+	|- Way too long to wait for a sandwich
+	|- We waited too long for our bill.
+The prices are too expensive for burgers.
+Waiters are disrespectful and rude.; Our server was not personable.; The server seemed like we were bothering her.
+Tables were dirty.
+The hosting system is terrible.
+Needs better training for staff.
+The waiter & staff were also not professionally attired .
+To many tables crowded together.
+Very disjointed table placement.

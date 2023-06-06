@@ -1,4 +1,4 @@
-# kpa-hierarchy-promo
+# kpa-hierarchy
 
 ## Scope
 This repository contains:

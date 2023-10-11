@@ -7,7 +7,7 @@ A KPH is a directed forest, a Directed Acyclic Graph (DAG) where each node has n
 
 
 The ThinkP dataset is described in the following paper:  
-From Key Points to Key Point Hierarchy: Structured and Expressive Opinion Summarization. Arie Cattan, Lilach Eden, Yoav Kantor and Roy Bar-Haim. ACL 2023.
+[From Key Points to Key Point Hierarchy: Structured and Expressive Opinion Summarization.](https://arxiv.org/abs/2306.03853) Arie Cattan, Lilach Eden, Yoav Kantor and Roy Bar-Haim. ACL 2023.
 
 ## License
 This dataset is released under [Community Data License Agreement – Sharing, Version 1.0](https://cdla.dev/sharing-1-0/)

@@ -13,4 +13,5 @@ authors:
 version: 1.0.0
 date-released: 2023-06-05
 license: Apache-2.0
+url: "https://arxiv.org/abs/2306.03853"
 repository-code: "https://github.com/IBM/kpa-hierarchy"

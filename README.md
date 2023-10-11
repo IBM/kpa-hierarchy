@@ -1,4 +1,4 @@
-# kpa-hierarchy-promo
+# kpa-hierarchy
 
 ## Scope
 This repository contains:
@@ -106,7 +106,7 @@ You can use the same output dir and continue from where you left off
 ## Citing 
 If you are using ThinkP in a publication, please cite the following paper: 
 
-[From Key Points to Key Point Hierarchy: Structured and Expressive Opinion Summarization]()  
+[From Key Points to Key Point Hierarchy: Structured and Expressive Opinion Summarization](https://arxiv.org/abs/2306.03853)  
 Arie Cattan*, Lilach Eden*, Yoav Kantor and Roy Bar-Haim.  
 ACL 2023.
 
